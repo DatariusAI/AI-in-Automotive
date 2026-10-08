@@ -1,0 +1,43 @@
+{
+  "arxiv_query": "(abs:\"autonomous driving\" OR abs:\"self-driving\" OR abs:automotive OR abs:\"vehicle trajectory\") AND (abs:\"machine learning\" OR abs:\"language model\" OR abs:\"deep learning\")",
+  "arxiv_max": 8,
+  "repos_per_section": 6,
+  "since_days": 365,
+  "code_sections": [
+    {
+      "key": "AI",
+      "queries": [
+        "autonomous driving llm",
+        "vision language autonomous driving"
+      ]
+    },
+    {
+      "key": "ML",
+      "queries": [
+        "autonomous driving",
+        "lane detection deep learning"
+      ]
+    },
+    {
+      "key": "DS",
+      "queries": [
+        "automotive data science",
+        "vehicle data science"
+      ]
+    },
+    {
+      "key": "DA",
+      "queries": [
+        "vehicle telematics analytics",
+        "fleet analytics"
+      ]
+    },
+    {
+      "key": "DAN",
+      "queries": [
+        "car sales data analysis",
+        "vehicle data analysis"
+      ]
+    }
+  ]
+}
