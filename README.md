@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **autonomous driving, per
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-19 04:38 UTC_
+_Last refreshed: 2026-10-20 04:35 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -23,6 +23,7 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
+| 2026-10-19 | [Autonomous adaptive spectral analysis with an LLM agent for self-driving laboratories](https://arxiv.org/abs/2610.25619) | Yuki K. Wakabayashi et al. |
 | 2026-10-16 | [Replay Pruning and Few-Bit Integer Inference for Hardware-Efficient Speed-Sign Recognition](https://arxiv.org/abs/2610.22811) | Se Un Park et al. |
 | 2026-10-16 | [STRIDE: Evaluating Spatiotemporal Reasoning in Driving Edge Cases](https://arxiv.org/abs/2610.22795) | Lieqi Liu et al. |
 | 2026-10-15 | [Can Autonomous Vehicles Keep Their Cool? A Survey of Thermal Side-Channel and Perception Attacks](https://arxiv.org/abs/2610.21034) | Harsh Aaryan et al. |
@@ -30,7 +31,6 @@ Newest papers on arXiv for this topic, newest first.
 | 2026-10-13 | [DriveWLA: Unifying Future Dynamics and Scene Semantics through World-Language-Action Modeling for Autonomous Driving](https://arxiv.org/abs/2610.17903) | Shuzheng Wang et al. |
 | 2026-10-13 | [MMTA: Benchmarking Multimodal Temporal Analysis with Time Series, Text, and Vision](https://arxiv.org/abs/2610.17856) | Ziyang Zhang et al. |
 | 2026-10-08 | [DVD: Dynamic Vector Decoding for Efficient MLLM-based Perception](https://arxiv.org/abs/2610.12266) | Jinghua Hou et al. |
-| 2026-10-07 | [Progress and Prospect of AI in ARPES Workflow](https://arxiv.org/abs/2610.10140) | Sandy Adhitia Ekahana et al. |
 <!-- ARXIV:END -->
 
 ## 🤖 Latest AI projects (LLMs, GenAI, agents)
@@ -40,9 +40,9 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) | A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated) |  | 1,897 | 2026-10-15 |
-| [DriveVLA/OpenDriveVLA](https://github.com/DriveVLA/OpenDriveVLA) | (AAAI 2026) OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model | Python | 821 | 2026-02-16 |
+| [DriveVLA/OpenDriveVLA](https://github.com/DriveVLA/OpenDriveVLA) | (AAAI 2026) OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model | Python | 822 | 2026-02-16 |
 | [xiaomi-mlab/Orion](https://github.com/xiaomi-mlab/Orion) | (ICCV 2025) Official code of "ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation" | Python | 668 | 2026-06-22 |
-| [ucla-mobility/AutoVLA](https://github.com/ucla-mobility/AutoVLA) | (NeurIPS 2025) AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuni | Python | 666 | 2026-05-29 |
+| [ucla-mobility/AutoVLA](https://github.com/ucla-mobility/AutoVLA) | (NeurIPS 2025) AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuni | Python | 667 | 2026-05-29 |
 | [JohnsonJiang1996/Awesome-VLA4AD](https://github.com/JohnsonJiang1996/Awesome-VLA4AD) | Vision–Language–Action models for Autonomous Driving (VLA4AD) resources, serving as the companion repository to the survey paper “A Survey o |  | 629 | 2025-11-20 |
 | [hustvl/Senna](https://github.com/hustvl/Senna) | (IJCV 2026) Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving | Python | 558 | 2026-08-12 |
 <!-- AI:END -->
@@ -53,12 +53,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- ML:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) | An open autonomous driving platform | C++ | 26,868 | 2026-04-16 |
-| [carla-simulator/carla](https://github.com/carla-simulator/carla) | Open-source simulator for autonomous driving research. | C++ | 14,505 | 2026-10-17 |
-| [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) | Autoware - the world's leading open-source software project for autonomous driving | Dockerfile | 12,163 | 2026-10-18 |
+| [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) | An open autonomous driving platform | C++ | 26,873 | 2026-04-16 |
+| [carla-simulator/carla](https://github.com/carla-simulator/carla) | Open-source simulator for autonomous driving research. | C++ | 14,505 | 2026-10-19 |
+| [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) | Autoware - the world's leading open-source software project for autonomous driving | Dockerfile | 12,165 | 2026-10-19 |
 | [OpenDriveLab/UniAD](https://github.com/OpenDriveLab/UniAD) | (CVPR 2023 Best Paper Award) Planning-oriented Autonomous Driving | Python | 4,792 | 2025-10-29 |
-| [Farama-Foundation/HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) | A collection of environments for autonomous driving and tactical decision-making tasks | Python | 3,330 | 2026-10-17 |
-| [gaoxiang12/slam_in_autonomous_driving](https://github.com/gaoxiang12/slam_in_autonomous_driving) | 《自动驾驶中的SLAM技术》对应开源代码 | C++ | 2,601 | 2025-11-13 |
+| [Farama-Foundation/HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) | A collection of environments for autonomous driving and tactical decision-making tasks | Python | 3,331 | 2026-10-17 |
+| [gaoxiang12/slam_in_autonomous_driving](https://github.com/gaoxiang12/slam_in_autonomous_driving) | 《自动驾驶中的SLAM技术》对应开源代码 | C++ | 2,603 | 2025-11-13 |
 <!-- ML:END -->
 
 ## 🔬 Latest data science projects
@@ -81,11 +81,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DA:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse](https://github.com/Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse) | Advanced MS SQL Server & Power BI Data Warehousing & Fleet Logistics Engine 2026 | HTML | 115 | 2026-10-19 |
-| [AndrewKochulab/jarvis-dashboard](https://github.com/AndrewKochulab/jarvis-dashboard) | A modular, fully configurable DataviewJS dashboard for Obsidian — monitor Claude Code sessions in real-time, manage AI agent fleets, track 3 | JavaScript | 103 | 2026-03-13 |
+| [Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse](https://github.com/Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse) | Advanced MS SQL Server & Power BI Data Warehousing & Fleet Logistics Engine 2026 | HTML | 115 | 2026-10-20 |
+| [AndrewKochulab/jarvis-dashboard](https://github.com/AndrewKochulab/jarvis-dashboard) | A modular, fully configurable DataviewJS dashboard for Obsidian — monitor Claude Code sessions in real-time, manage AI agent fleets, track 3 | JavaScript | 104 | 2026-03-13 |
 | [tianyilt/claude-fleet](https://github.com/tianyilt/claude-fleet) | Dashboard for orchestrating many concurrent Claude Code / Codex windows — triage, full-text search, skill/memory analytics | Python | 55 | 2026-07-27 |
-| [bkbilly/Routario](https://github.com/bkbilly/Routario) | 🛰️ Real-time fleet tracking, smart alerts, and sensor analytics | Python | 35 | 2026-10-17 |
-| [DevliegereM/JamfDash](https://github.com/DevliegereM/JamfDash) | A native macOS dashboard for Jamf Pro, Jamf Protect, and Jamf School. Browse your fleet, review security posture, inspect configuration and  | Swift | 34 | 2026-09-30 |
+| [bkbilly/Routario](https://github.com/bkbilly/Routario) | 🛰️ Real-time fleet tracking, smart alerts, and sensor analytics | Python | 35 | 2026-10-19 |
+| [DevliegereM/JamfDash](https://github.com/DevliegereM/JamfDash) | A native macOS dashboard for Jamf Pro, Jamf Protect, and Jamf School. Browse your fleet, review security posture, inspect configuration and  | Swift | 35 | 2026-09-30 |
 | [jonahberg/the-blue-board](https://github.com/jonahberg/the-blue-board) | The Blue Board — Unofficial United Airlines operations dashboard. Live flight tracking, schedules, fleet data, weather & analytics. | JavaScript | 22 | 2026-10-08 |
 <!-- DA:END -->
 
