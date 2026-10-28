@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **autonomous driving, per
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-27 04:36 UTC_
+_Last refreshed: 2026-10-28 04:29 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -39,7 +39,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AI:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) | A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated) |  | 1,900 | 2026-10-15 |
+| [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) | A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated) |  | 1,901 | 2026-10-15 |
 | [DriveVLA/OpenDriveVLA](https://github.com/DriveVLA/OpenDriveVLA) | (AAAI 2026) OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model | Python | 824 | 2026-02-16 |
 | [xiaomi-mlab/Orion](https://github.com/xiaomi-mlab/Orion) | (ICCV 2025) Official code of "ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation" | Python | 670 | 2026-06-22 |
 | [ucla-mobility/AutoVLA](https://github.com/ucla-mobility/AutoVLA) | (NeurIPS 2025) AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuni | Python | 669 | 2026-05-29 |
@@ -53,9 +53,9 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- ML:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) | An open autonomous driving platform | C++ | 26,883 | 2026-04-16 |
-| [carla-simulator/carla](https://github.com/carla-simulator/carla) | Open-source simulator for autonomous driving research. | C++ | 14,542 | 2026-10-27 |
-| [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) | Autoware - the world's leading open-source software project for autonomous driving | Dockerfile | 12,194 | 2026-10-21 |
+| [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) | An open autonomous driving platform | C++ | 26,881 | 2026-04-16 |
+| [carla-simulator/carla](https://github.com/carla-simulator/carla) | Open-source simulator for autonomous driving research. | C++ | 14,544 | 2026-10-27 |
+| [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) | Autoware - the world's leading open-source software project for autonomous driving | Dockerfile | 12,195 | 2026-10-27 |
 | [OpenDriveLab/UniAD](https://github.com/OpenDriveLab/UniAD) | (CVPR 2023 Best Paper Award) Planning-oriented Autonomous Driving | Python | 4,800 | 2025-10-29 |
 | [Farama-Foundation/HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) | A collection of environments for autonomous driving and tactical decision-making tasks | Python | 3,339 | 2026-10-23 |
 | [gaoxiang12/slam_in_autonomous_driving](https://github.com/gaoxiang12/slam_in_autonomous_driving) | 《自动驾驶中的SLAM技术》对应开源代码 | C++ | 2,607 | 2025-11-13 |
@@ -81,8 +81,8 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DA:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse](https://github.com/Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse) | Advanced MS SQL Server & Power BI Data Warehousing & Fleet Logistics Engine 2026 | HTML | 115 | 2026-10-27 |
-| [AndrewKochulab/jarvis-dashboard](https://github.com/AndrewKochulab/jarvis-dashboard) | A modular, fully configurable DataviewJS dashboard for Obsidian — monitor Claude Code sessions in real-time, manage AI agent fleets, track 3 | JavaScript | 104 | 2026-03-13 |
+| [Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse](https://github.com/Empty5i/LogiCore-Analytics-Adaptive-Supply-Chain-Pulse) | Advanced MS SQL Server & Power BI Data Warehousing & Fleet Logistics Engine 2026 | HTML | 114 | 2026-10-28 |
+| [AndrewKochulab/jarvis-dashboard](https://github.com/AndrewKochulab/jarvis-dashboard) | A modular, fully configurable DataviewJS dashboard for Obsidian — monitor Claude Code sessions in real-time, manage AI agent fleets, track 3 | JavaScript | 105 | 2026-03-13 |
 | [tianyilt/claude-fleet](https://github.com/tianyilt/claude-fleet) | Dashboard for orchestrating many concurrent Claude Code / Codex windows — triage, full-text search, skill/memory analytics | Python | 55 | 2026-07-27 |
 | [bkbilly/Routario](https://github.com/bkbilly/Routario) | 🛰️ Real-time fleet tracking, smart alerts, and sensor analytics | Python | 36 | 2026-10-21 |
 | [DevliegereM/JamfDash](https://github.com/DevliegereM/JamfDash) | A native macOS dashboard for Jamf Pro, Jamf Protect, and Jamf School. Browse your fleet, review security posture, inspect configuration and  | Swift | 36 | 2026-09-30 |
