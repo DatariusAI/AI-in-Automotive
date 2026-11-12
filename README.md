@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **autonomous driving, per
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-11 04:27 UTC_
+_Last refreshed: 2026-11-12 04:26 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -23,6 +23,7 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
+| 2026-11-08 | [A Physical Testbed for Self-Driving Laboratories: Comparing Bayesian and Agentic Optimization in a Minimal Closed-Loop Color Formulation Task](https://arxiv.org/abs/2611.11690) | Tony Qin et al. |
 | 2026-11-05 | [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](https://arxiv.org/abs/2611.08449) | Yu-Cheng Chou et al. |
 | 2026-11-04 | [BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories](https://arxiv.org/abs/2611.06911) | Fei Lin et al. |
 | 2026-11-04 | [MotoVerse: A Benchmark for Predictive Perception of Motorized Two-Wheelers in Dense Unstructured Traffic](https://arxiv.org/abs/2611.06007) | Varun A. Paturkar et al. |
@@ -30,7 +31,6 @@ Newest papers on arXiv for this topic, newest first.
 | 2026-11-01 | [Safety4DM: A Vision-Language Framework for Risk-Aware Dynamic Maps in Vehicle-Road-Cloud Collaborative Driving](https://arxiv.org/abs/2611.01996) | Zhengshu Zhou et al. |
 | 2026-10-31 | [Agent4FreeFem: A Verification-Guided Framework for Autonomous Topology Optimization](https://arxiv.org/abs/2611.00803) | Zhipu Cui et al. |
 | 2026-10-29 | [Versatile Photonic Encoding Platform with Selectable Back Ends for Automotive Edge Processing](https://arxiv.org/abs/2610.39337) | Isamu Takai et al. |
-| 2026-10-23 | [Online Continual Learning in Edge-Cloud Applications](https://arxiv.org/abs/2610.32472) | Charalampos Davalas et al. |
 <!-- ARXIV:END -->
 
 ## 🤖 Latest AI projects (LLMs, GenAI, agents)
@@ -40,7 +40,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) | A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated) |  | 1,906 | 2026-10-15 |
-| [DriveVLA/OpenDriveVLA](https://github.com/DriveVLA/OpenDriveVLA) | (AAAI 2026) OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model | Python | 830 | 2026-02-16 |
+| [DriveVLA/OpenDriveVLA](https://github.com/DriveVLA/OpenDriveVLA) | (AAAI 2026) OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model | Python | 831 | 2026-02-16 |
 | [ucla-mobility/AutoVLA](https://github.com/ucla-mobility/AutoVLA) | (NeurIPS 2025) AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuni | Python | 675 | 2026-05-29 |
 | [xiaomi-mlab/Orion](https://github.com/xiaomi-mlab/Orion) | (ICCV 2025) Official code of "ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation" | Python | 670 | 2026-06-22 |
 | [JohnsonJiang1996/Awesome-VLA4AD](https://github.com/JohnsonJiang1996/Awesome-VLA4AD) | Vision–Language–Action models for Autonomous Driving (VLA4AD) resources, serving as the companion repository to the survey paper “A Survey o |  | 631 | 2025-11-20 |
@@ -54,11 +54,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) | An open autonomous driving platform | C++ | 26,903 | 2026-04-16 |
-| [carla-simulator/carla](https://github.com/carla-simulator/carla) | Open-source simulator for autonomous driving research. | C++ | 14,587 | 2026-11-10 |
-| [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) | Autoware - the world's leading open-source software project for autonomous driving | Dockerfile | 12,234 | 2026-11-09 |
-| [Farama-Foundation/HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) | A collection of environments for autonomous driving and tactical decision-making tasks | Python | 3,342 | 2026-10-30 |
-| [gaoxiang12/slam_in_autonomous_driving](https://github.com/gaoxiang12/slam_in_autonomous_driving) | 《自动驾驶中的SLAM技术》对应开源代码 | C++ | 2,612 | 2025-11-13 |
-| [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model) | Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. |  | 2,301 | 2026-11-11 |
+| [carla-simulator/carla](https://github.com/carla-simulator/carla) | Open-source simulator for autonomous driving research. | C++ | 14,590 | 2026-11-11 |
+| [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) | Autoware - the world's leading open-source software project for autonomous driving | Dockerfile | 12,241 | 2026-11-09 |
+| [Farama-Foundation/HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) | A collection of environments for autonomous driving and tactical decision-making tasks | Python | 3,342 | 2026-11-11 |
+| [gaoxiang12/slam_in_autonomous_driving](https://github.com/gaoxiang12/slam_in_autonomous_driving) | 《自动驾驶中的SLAM技术》对应开源代码 | C++ | 2,614 | 2025-11-13 |
+| [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model) | Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. |  | 2,302 | 2026-11-11 |
 <!-- ML:END -->
 
 ## 🔬 Latest data science projects
@@ -81,11 +81,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DA:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [AndrewKochulab/jarvis-dashboard](https://github.com/AndrewKochulab/jarvis-dashboard) | A modular, fully configurable DataviewJS dashboard for Obsidian — monitor Claude Code sessions in real-time, manage AI agent fleets, track 3 | JavaScript | 111 | 2026-03-13 |
+| [AndrewKochulab/jarvis-dashboard](https://github.com/AndrewKochulab/jarvis-dashboard) | A modular, fully configurable DataviewJS dashboard for Obsidian — monitor Claude Code sessions in real-time, manage AI agent fleets, track 3 | JavaScript | 112 | 2026-03-13 |
 | [tianyilt/claude-fleet](https://github.com/tianyilt/claude-fleet) | Dashboard for orchestrating many concurrent Claude Code / Codex windows — triage, full-text search, skill/memory analytics | Python | 56 | 2026-07-27 |
 | [DevliegereM/JamfDash](https://github.com/DevliegereM/JamfDash) | A native macOS dashboard for Jamf Pro, Jamf Protect, and Jamf School. Browse your fleet, review security posture, inspect configuration and  | Swift | 40 | 2026-11-01 |
 | [bkbilly/Routario](https://github.com/bkbilly/Routario) | 🛰️ Real-time fleet tracking, smart alerts, and sensor analytics | JavaScript | 36 | 2026-11-05 |
-| [jonahberg/the-blue-board](https://github.com/jonahberg/the-blue-board) | The Blue Board — Unofficial United Airlines operations dashboard. Live flight tracking, schedules, fleet data, weather & analytics. | JavaScript | 23 | 2026-11-11 |
+| [jonahberg/the-blue-board](https://github.com/jonahberg/the-blue-board) | The Blue Board — Unofficial United Airlines operations dashboard. Live flight tracking, schedules, fleet data, weather & analytics. | JavaScript | 23 | 2026-11-12 |
 | [philjestin/Daedalus](https://github.com/philjestin/Daedalus) | Print farm management platform — product catalogs, multi-channel orders, printer fleet control, and profitability analytics | Go | 21 | 2026-06-03 |
 <!-- DA:END -->
 
