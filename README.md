@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **autonomous driving, per
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-13 04:27 UTC_
+_Last refreshed: 2026-11-14 04:26 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -40,9 +40,9 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) | A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated) |  | 1,906 | 2026-10-15 |
-| [DriveVLA/OpenDriveVLA](https://github.com/DriveVLA/OpenDriveVLA) | (AAAI 2026) OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model | Python | 832 | 2026-02-16 |
-| [ucla-mobility/AutoVLA](https://github.com/ucla-mobility/AutoVLA) | (NeurIPS 2025) AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuni | Python | 675 | 2026-05-29 |
-| [xiaomi-mlab/Orion](https://github.com/xiaomi-mlab/Orion) | (ICCV 2025) Official code of "ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation" | Python | 670 | 2026-06-22 |
+| [DriveVLA/OpenDriveVLA](https://github.com/DriveVLA/OpenDriveVLA) | (AAAI 2026) OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model | Python | 833 | 2026-02-16 |
+| [ucla-mobility/AutoVLA](https://github.com/ucla-mobility/AutoVLA) | (NeurIPS 2025) AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuni | Python | 676 | 2026-05-29 |
+| [xiaomi-mlab/Orion](https://github.com/xiaomi-mlab/Orion) | (ICCV 2025) Official code of "ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation" | Python | 671 | 2026-06-22 |
 | [JohnsonJiang1996/Awesome-VLA4AD](https://github.com/JohnsonJiang1996/Awesome-VLA4AD) | Vision–Language–Action models for Autonomous Driving (VLA4AD) resources, serving as the companion repository to the survey paper “A Survey o |  | 631 | 2025-11-20 |
 | [hustvl/Senna](https://github.com/hustvl/Senna) | (IJCV 2026) Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving | Python | 559 | 2026-08-12 |
 <!-- AI:END -->
@@ -54,9 +54,9 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) | An open autonomous driving platform | C++ | 26,903 | 2026-04-16 |
-| [carla-simulator/carla](https://github.com/carla-simulator/carla) | Open-source simulator for autonomous driving research. | C++ | 14,600 | 2026-11-13 |
-| [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) | Autoware - the world's leading open-source software project for autonomous driving | Dockerfile | 12,243 | 2026-11-12 |
-| [Farama-Foundation/HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) | A collection of environments for autonomous driving and tactical decision-making tasks | Python | 3,342 | 2026-11-11 |
+| [carla-simulator/carla](https://github.com/carla-simulator/carla) | Open-source simulator for autonomous driving research. | C++ | 14,602 | 2026-11-13 |
+| [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) | Autoware - the world's leading open-source software project for autonomous driving | Dockerfile | 12,249 | 2026-11-12 |
+| [Farama-Foundation/HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) | A collection of environments for autonomous driving and tactical decision-making tasks | Python | 3,343 | 2026-11-11 |
 | [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model) | Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. |  | 2,304 | 2026-11-13 |
 | [NVlabs/alpamayo](https://github.com/NVlabs/alpamayo) | NVIDIA Alpamayo 1 Nano is an open 10B reasoning VLA model for autonomous vehicles that pairs driving trajectories with Chain-of-Causation re | Python | 2,068 | 2026-09-09 |
 <!-- ML:END -->
@@ -85,7 +85,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 | [tianyilt/claude-fleet](https://github.com/tianyilt/claude-fleet) | Dashboard for orchestrating many concurrent Claude Code / Codex windows — triage, full-text search, skill/memory analytics | Python | 56 | 2026-07-27 |
 | [DevliegereM/JamfDash](https://github.com/DevliegereM/JamfDash) | A native macOS dashboard for Jamf Pro, Jamf Protect, and Jamf School. Browse your fleet, review security posture, inspect configuration and  | Swift | 40 | 2026-11-01 |
 | [bkbilly/Routario](https://github.com/bkbilly/Routario) | 🛰️ Real-time fleet tracking, smart alerts, and sensor analytics | JavaScript | 36 | 2026-11-05 |
-| [jonahberg/the-blue-board](https://github.com/jonahberg/the-blue-board) | The Blue Board — Unofficial United Airlines operations dashboard. Live flight tracking, schedules, fleet data, weather & analytics. | JavaScript | 23 | 2026-11-13 |
+| [jonahberg/the-blue-board](https://github.com/jonahberg/the-blue-board) | The Blue Board — Unofficial United Airlines operations dashboard. Live flight tracking, schedules, fleet data, weather & analytics. | JavaScript | 23 | 2026-11-14 |
 | [philjestin/Daedalus](https://github.com/philjestin/Daedalus) | Print farm management platform — product catalogs, multi-channel orders, printer fleet control, and profitability analytics | Go | 21 | 2026-06-03 |
 <!-- DA:END -->
 
