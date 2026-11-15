@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **autonomous driving, per
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-14 04:26 UTC_
+_Last refreshed: 2026-11-15 04:26 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -40,9 +40,9 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) | A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated) |  | 1,906 | 2026-10-15 |
-| [DriveVLA/OpenDriveVLA](https://github.com/DriveVLA/OpenDriveVLA) | (AAAI 2026) OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model | Python | 833 | 2026-02-16 |
-| [ucla-mobility/AutoVLA](https://github.com/ucla-mobility/AutoVLA) | (NeurIPS 2025) AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuni | Python | 676 | 2026-05-29 |
-| [xiaomi-mlab/Orion](https://github.com/xiaomi-mlab/Orion) | (ICCV 2025) Official code of "ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation" | Python | 671 | 2026-06-22 |
+| [DriveVLA/OpenDriveVLA](https://github.com/DriveVLA/OpenDriveVLA) | (AAAI 2026) OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model | Python | 832 | 2026-02-16 |
+| [ucla-mobility/AutoVLA](https://github.com/ucla-mobility/AutoVLA) | (NeurIPS 2025) AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuni | Python | 677 | 2026-05-29 |
+| [xiaomi-mlab/Orion](https://github.com/xiaomi-mlab/Orion) | (ICCV 2025) Official code of "ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation" | Python | 672 | 2026-06-22 |
 | [JohnsonJiang1996/Awesome-VLA4AD](https://github.com/JohnsonJiang1996/Awesome-VLA4AD) | Vision–Language–Action models for Autonomous Driving (VLA4AD) resources, serving as the companion repository to the survey paper “A Survey o |  | 631 | 2025-11-20 |
 | [hustvl/Senna](https://github.com/hustvl/Senna) | (IJCV 2026) Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving | Python | 559 | 2026-08-12 |
 <!-- AI:END -->
@@ -53,11 +53,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- ML:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) | An open autonomous driving platform | C++ | 26,903 | 2026-04-16 |
-| [carla-simulator/carla](https://github.com/carla-simulator/carla) | Open-source simulator for autonomous driving research. | C++ | 14,602 | 2026-11-13 |
-| [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) | Autoware - the world's leading open-source software project for autonomous driving | Dockerfile | 12,249 | 2026-11-12 |
+| [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) | An open autonomous driving platform | C++ | 26,906 | 2026-04-16 |
+| [carla-simulator/carla](https://github.com/carla-simulator/carla) | Open-source simulator for autonomous driving research. | C++ | 14,606 | 2026-11-14 |
+| [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) | Autoware - the world's leading open-source software project for autonomous driving | Dockerfile | 12,251 | 2026-11-12 |
 | [Farama-Foundation/HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) | A collection of environments for autonomous driving and tactical decision-making tasks | Python | 3,343 | 2026-11-11 |
-| [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model) | Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. |  | 2,304 | 2026-11-13 |
+| [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model) | Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. |  | 2,303 | 2026-11-13 |
 | [NVlabs/alpamayo](https://github.com/NVlabs/alpamayo) | NVIDIA Alpamayo 1 Nano is an open 10B reasoning VLA model for autonomous vehicles that pairs driving trajectories with Chain-of-Causation re | Python | 2,068 | 2026-09-09 |
 <!-- ML:END -->
 
