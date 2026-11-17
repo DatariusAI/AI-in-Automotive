@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **autonomous driving, per
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-16 04:34 UTC_
+_Last refreshed: 2026-11-17 04:26 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -23,14 +23,14 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
-| 2026-11-08 | [A Physical Testbed for Self-Driving Laboratories: Comparing Bayesian and Agentic Optimization in a Minimal Closed-Loop Color Formulation Task](https://arxiv.org/abs/2611.11690) | Tony Qin et al. |
-| 2026-11-05 | [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](https://arxiv.org/abs/2611.08449) | Yu-Cheng Chou et al. |
-| 2026-11-04 | [BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories](https://arxiv.org/abs/2611.06911) | Fei Lin et al. |
-| 2026-11-04 | [MotoVerse: A Benchmark for Predictive Perception of Motorized Two-Wheelers in Dense Unstructured Traffic](https://arxiv.org/abs/2611.06007) | Varun A. Paturkar et al. |
-| 2026-11-03 | [Should the Action Expert Train the VLM? Action-Token Supervision and Gradient Routing in Mixture-of-Transformer VLAs](https://arxiv.org/abs/2611.05249) | Asher James Hancock et al. |
-| 2026-11-01 | [Safety4DM: A Vision-Language Framework for Risk-Aware Dynamic Maps in Vehicle-Road-Cloud Collaborative Driving](https://arxiv.org/abs/2611.01996) | Zhengshu Zhou et al. |
-| 2026-10-31 | [Agent4FreeFem: A Verification-Guided Framework for Autonomous Topology Optimization](https://arxiv.org/abs/2611.00803) | Zhipu Cui et al. |
-| 2026-10-29 | [Versatile Photonic Encoding Platform with Selectable Back Ends for Automotive Edge Processing](https://arxiv.org/abs/2610.39337) | Isamu Takai et al. |
+| 2026-11-14 | [Towards Informed Autonomy Design: Understanding the Interplay of Function Characteristics and Autonomy Preferences in Automotive Agents](https://arxiv.org/abs/2611.19474) | Sebastian Zepf et al. |
+| 2026-11-14 | [Do VLMs Really Look at the Road? A Diagnostic Evaluation for Autonomous Driving](https://arxiv.org/abs/2611.19184) | Shankar Gangisetty et al. |
+| 2026-11-14 | [SuperGlance: Driving at a Glance with a Vision-Language Model](https://arxiv.org/abs/2611.19138) | Jieyuan Pei et al. |
+| 2026-11-13 | [Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot](https://arxiv.org/abs/2611.18855) | Marya Sabouri Dodaran et al. |
+| 2026-11-13 | [Toward Resilient Self-Driving Laboratories through Telerobotic Interventions](https://arxiv.org/abs/2611.18496) | Ziheng Wu et al. |
+| 2026-11-12 | [Evaluating Video LLMs' Understanding of Corner Cases in Autonomous Driving](https://arxiv.org/abs/2611.16767) | Gabriel Manalu et al. |
+| 2026-11-12 | [From Foundation VLM to Versatile Driving VLM: A Triplet Incremental Training Approach](https://arxiv.org/abs/2611.16727) | Shengtao Wu et al. |
+| 2026-11-12 | [ORCHID-SAGE: Fully Reproducible CALPHAD Assessment from Evidence to Phase Diagram](https://arxiv.org/abs/2611.16308) | Raymundo Arróyave |
 <!-- ARXIV:END -->
 
 ## 🤖 Latest AI projects (LLMs, GenAI, agents)
@@ -42,9 +42,9 @@ Most-starred GitHub repositories updated in the last 12 months.
 | [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD) | A curated list of awesome LLM/VLM/VLA/World Model for Autonomous Driving(LLM4AD) resources (continually updated) |  | 1,906 | 2026-10-15 |
 | [DriveVLA/OpenDriveVLA](https://github.com/DriveVLA/OpenDriveVLA) | (AAAI 2026) OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model | Python | 832 | 2026-02-16 |
 | [ucla-mobility/AutoVLA](https://github.com/ucla-mobility/AutoVLA) | (NeurIPS 2025) AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuni | Python | 677 | 2026-05-29 |
-| [xiaomi-mlab/Orion](https://github.com/xiaomi-mlab/Orion) | (ICCV 2025) Official code of "ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation" | Python | 672 | 2026-06-22 |
-| [JohnsonJiang1996/Awesome-VLA4AD](https://github.com/JohnsonJiang1996/Awesome-VLA4AD) | Vision–Language–Action models for Autonomous Driving (VLA4AD) resources, serving as the companion repository to the survey paper “A Survey o |  | 631 | 2025-11-20 |
-| [hustvl/Senna](https://github.com/hustvl/Senna) | (IJCV 2026) Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving | Python | 559 | 2026-08-12 |
+| [xiaomi-mlab/Orion](https://github.com/xiaomi-mlab/Orion) | (ICCV 2025) Official code of "ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation" | Python | 673 | 2026-06-22 |
+| [JohnsonJiang1996/Awesome-VLA4AD](https://github.com/JohnsonJiang1996/Awesome-VLA4AD) | Vision–Language–Action models for Autonomous Driving (VLA4AD) resources, serving as the companion repository to the survey paper “A Survey o |  | 632 | 2025-11-20 |
+| [QwenLM/Qwen-Drive-1.0](https://github.com/QwenLM/Qwen-Drive-1.0) | An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving | Python | 559 | 2026-09-03 |
 <!-- AI:END -->
 
 ## 🧠 Latest machine learning projects
@@ -53,12 +53,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- ML:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) | An open autonomous driving platform | C++ | 26,907 | 2026-04-16 |
-| [carla-simulator/carla](https://github.com/carla-simulator/carla) | Open-source simulator for autonomous driving research. | C++ | 14,609 | 2026-11-15 |
-| [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) | Autoware - the world's leading open-source software project for autonomous driving | Dockerfile | 12,252 | 2026-11-12 |
+| [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) | An open autonomous driving platform | C++ | 26,909 | 2026-04-16 |
+| [carla-simulator/carla](https://github.com/carla-simulator/carla) | Open-source simulator for autonomous driving research. | C++ | 14,613 | 2026-11-16 |
+| [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) | Autoware - the world's leading open-source software project for autonomous driving | Dockerfile | 12,256 | 2026-11-12 |
 | [Farama-Foundation/HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) | A collection of environments for autonomous driving and tactical decision-making tasks | Python | 3,344 | 2026-11-11 |
 | [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model) | Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. |  | 2,304 | 2026-11-13 |
-| [NVlabs/alpamayo](https://github.com/NVlabs/alpamayo) | NVIDIA Alpamayo 1 Nano is an open 10B reasoning VLA model for autonomous vehicles that pairs driving trajectories with Chain-of-Causation re | Python | 2,068 | 2026-09-09 |
+| [NVlabs/alpamayo](https://github.com/NVlabs/alpamayo) | NVIDIA Alpamayo 1 Nano is an open 10B reasoning VLA model for autonomous vehicles that pairs driving trajectories with Chain-of-Causation re | Python | 2,067 | 2026-09-09 |
 <!-- ML:END -->
 
 ## 🔬 Latest data science projects
@@ -67,7 +67,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- DS:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [oracle-samples/oci-data-science-ai-samples](https://github.com/oracle-samples/oci-data-science-ai-samples) | This repo contains a series of tutorials and code examples highlighting different features of the OCI Data Science and AI services, along wi | Jupyter Notebook | 305 | 2026-10-08 |
+| [oracle-samples/oci-data-science-ai-samples](https://github.com/oracle-samples/oci-data-science-ai-samples) | This repo contains a series of tutorials and code examples highlighting different features of the OCI Data Science and AI services, along wi | Jupyter Notebook | 306 | 2026-10-08 |
 | [abcdaaaaaaaaa/DiscoveryVehicle](https://github.com/abcdaaaaaaaaa/DiscoveryVehicle) | Nuclear and Chemical data with Plug-Unplug Systematics (21 different MQ sensors & Geiger Counter) Multi-Purpose that can configure with SQL  | Python | 6 | 2026-07-30 |
 | [Nirmal0804/OIBSIP-DataScience-Task2-Car-Price-Prediction](https://github.com/Nirmal0804/OIBSIP-DataScience-Task2-Car-Price-Prediction) | Machine Learning regression project that predicts car selling prices based on vehicle features and historical data. | Python | 3 | 2026-07-10 |
 | [husnainalix77/automotive-price-predictor](https://github.com/husnainalix77/automotive-price-predictor) | End-to-End Data Science Pipeline for Automotive Price Prediction and Vehicle Classification using Python, Scikit-learn, and Streamlit | Jupyter Notebook | 2 | 2026-06-12 |
@@ -97,8 +97,8 @@ Most-starred GitHub repositories updated in the last 12 months.
 |---|---|---|---|---|
 | [jmscslgroup/strym](https://github.com/jmscslgroup/strym) | A real time CAN vehicle data logging, analysis and visualization tool to work with USB-CAN Interface for developing in-vehicle AI algorithms | Python | 39 | 2026-09-29 |
 | [open-ev-data/open-ev-data-dataset](https://github.com/open-ev-data/open-ev-data-dataset) | This repository provides a structured, versioned, and community-maintained dataset of electric vehicle specifications. Vehicle data is autho | JavaScript | 32 | 2025-12-30 |
+| [Wal33D/OBD-Droid](https://github.com/Wal33D/OBD-Droid) | Professional OBD-II diagnostic app for Android with live data, fault codes, emissions testing, vehicle history, track mode, and AI-powered a | Java | 28 | 2026-11-16 |
 | [themonomers/tesla](https://github.com/themonomers/tesla) | Vehicle and energy data logging for analysis, and home automation. | Python | 27 | 2026-11-10 |
-| [Wal33D/OBD-Droid](https://github.com/Wal33D/OBD-Droid) | Professional OBD-II diagnostic app for Android with live data, fault codes, emissions testing, vehicle history, track mode, and AI-powered a | Java | 27 | 2026-02-25 |
 | [anam-tabassum64/Electric-Vehicle-Population-Data-Analysis-](https://github.com/anam-tabassum64/Electric-Vehicle-Population-Data-Analysis-) |  | Jupyter Notebook | 20 | 2026-09-17 |
 | [Siddhartha80/AI-Powered-Predictive-Maintenance-System-for-Vehicles-with-Real-Time-Data-Visualization-and-Analysis](https://github.com/Siddhartha80/AI-Powered-Predictive-Maintenance-System-for-Vehicles-with-Real-Time-Data-Visualization-and-Analysis) | Gradient Boosting Models on Real-Time Sensor Data for AI-Enhanced Vehicle Predictive Maintenance. By using a web-based interface to forecast | Jupyter Notebook | 19 | 2026-10-20 |
 <!-- DAN:END -->
