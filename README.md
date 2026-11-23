@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **autonomous driving, per
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-22 04:26 UTC_
+_Last refreshed: 2026-11-23 04:29 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -54,11 +54,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) | An open autonomous driving platform | C++ | 26,916 | 2026-04-16 |
-| [carla-simulator/carla](https://github.com/carla-simulator/carla) | Open-source simulator for autonomous driving research. | C++ | 14,675 | 2026-11-21 |
-| [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) | Autoware - the world's leading open-source software project for autonomous driving | Dockerfile | 12,271 | 2026-11-20 |
+| [carla-simulator/carla](https://github.com/carla-simulator/carla) | Open-source simulator for autonomous driving research. | C++ | 14,683 | 2026-11-22 |
+| [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware) | Autoware - the world's leading open-source software project for autonomous driving | Dockerfile | 12,272 | 2026-11-20 |
 | [Farama-Foundation/HighwayEnv](https://github.com/Farama-Foundation/HighwayEnv) | A collection of environments for autonomous driving and tactical decision-making tasks | Python | 3,343 | 2026-11-21 |
-| [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model) | Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. |  | 2,306 | 2026-11-21 |
-| [NVlabs/alpamayo](https://github.com/NVlabs/alpamayo) | NVIDIA Alpamayo 1 Nano is an open 10B reasoning VLA model for autonomous vehicles that pairs driving trajectories with Chain-of-Causation re | Python | 2,072 | 2026-09-09 |
+| [LMD0311/Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model) | Collect some World Models for Autonomous Driving (and Robotic, etc.) papers. |  | 2,307 | 2026-11-21 |
+| [NVlabs/alpamayo](https://github.com/NVlabs/alpamayo) | NVIDIA Alpamayo 1 Nano is an open 10B reasoning VLA model for autonomous vehicles that pairs driving trajectories with Chain-of-Causation re | Python | 2,073 | 2026-09-09 |
 <!-- ML:END -->
 
 ## 🔬 Latest data science projects
@@ -84,7 +84,7 @@ Most-starred GitHub repositories updated in the last 12 months.
 | [AndrewKochulab/jarvis-dashboard](https://github.com/AndrewKochulab/jarvis-dashboard) | A modular, fully configurable DataviewJS dashboard for Obsidian — monitor Claude Code sessions in real-time, manage AI agent fleets, track 3 | JavaScript | 112 | 2026-03-13 |
 | [tianyilt/claude-fleet](https://github.com/tianyilt/claude-fleet) | Dashboard for orchestrating many concurrent Claude Code / Codex windows — triage, full-text search, skill/memory analytics | Python | 56 | 2026-07-27 |
 | [DevliegereM/JamfDash](https://github.com/DevliegereM/JamfDash) | A native macOS dashboard for Jamf Pro, Jamf Protect, and Jamf School. Browse your fleet, review security posture, inspect configuration and  | Swift | 40 | 2026-11-01 |
-| [bkbilly/Routario](https://github.com/bkbilly/Routario) | 🛰️ Real-time fleet tracking, smart alerts, and sensor analytics | JavaScript | 37 | 2026-11-21 |
+| [bkbilly/Routario](https://github.com/bkbilly/Routario) | 🛰️ Real-time fleet tracking, smart alerts, and sensor analytics | JavaScript | 37 | 2026-11-22 |
 | [jonahberg/the-blue-board](https://github.com/jonahberg/the-blue-board) | The Blue Board — Unofficial United Airlines operations dashboard. Live flight tracking, schedules, fleet data, weather & analytics. | JavaScript | 23 | 2026-11-19 |
 | [philjestin/Daedalus](https://github.com/philjestin/Daedalus) | Print farm management platform — product catalogs, multi-channel orders, printer fleet control, and profitability analytics | Go | 21 | 2026-06-03 |
 <!-- DA:END -->
@@ -97,8 +97,8 @@ Most-starred GitHub repositories updated in the last 12 months.
 |---|---|---|---|---|
 | [jmscslgroup/strym](https://github.com/jmscslgroup/strym) | A real time CAN vehicle data logging, analysis and visualization tool to work with USB-CAN Interface for developing in-vehicle AI algorithms | Python | 39 | 2026-09-29 |
 | [open-ev-data/open-ev-data-dataset](https://github.com/open-ev-data/open-ev-data-dataset) | This repository provides a structured, versioned, and community-maintained dataset of electric vehicle specifications. Vehicle data is autho | JavaScript | 32 | 2025-12-30 |
-| [Wal33D/OBD-Droid](https://github.com/Wal33D/OBD-Droid) | Professional OBD-II diagnostic app for Android with live data, fault codes, emissions testing, vehicle history, track mode, and AI-powered a | Java | 30 | 2026-11-17 |
-| [themonomers/tesla](https://github.com/themonomers/tesla) | Vehicle and energy data logging for analysis, and home automation. | Python | 27 | 2026-11-10 |
+| [Wal33D/OBD-Droid](https://github.com/Wal33D/OBD-Droid) | Professional OBD-II diagnostic app for Android with live data, fault codes, emissions testing, vehicle history, track mode, and AI-powered a | Java | 31 | 2026-11-17 |
+| [themonomers/tesla](https://github.com/themonomers/tesla) | Vehicle and energy data logging for analysis, and home automation. | Python | 27 | 2026-11-22 |
 | [anam-tabassum64/Electric-Vehicle-Population-Data-Analysis-](https://github.com/anam-tabassum64/Electric-Vehicle-Population-Data-Analysis-) |  | Jupyter Notebook | 20 | 2026-09-17 |
 | [Siddhartha80/AI-Powered-Predictive-Maintenance-System-for-Vehicles-with-Real-Time-Data-Visualization-and-Analysis](https://github.com/Siddhartha80/AI-Powered-Predictive-Maintenance-System-for-Vehicles-with-Real-Time-Data-Visualization-and-Analysis) | Gradient Boosting Models on Real-Time Sensor Data for AI-Enhanced Vehicle Predictive Maintenance. By using a web-based interface to forecast | Jupyter Notebook | 19 | 2026-10-20 |
 <!-- DAN:END -->
